@@ -25,6 +25,7 @@ Use the hierarchy of narrowing tools mypy/Pyright understand natively: `isinstan
 # 4. TypeIs (bidirectional, strict) — 3.13+
 # 5. TypeGuard (one-directional) — for complex external validation
 # 6. assert + cast (last resort)
+# ok
 ```
 
 ## Full Example

@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "6e9d824b72b80075",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd222706a1ef7f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c7231ed32a1a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Meta/Templates/Concept Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concept Template"
+            }
+          },
+          {
+            "id": "7b5d3548c22bb14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Meta/Templates/Pattern Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pattern Template"
+            }
+          },
+          {
+            "id": "c8cf886eac698aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Python Core/Async/Async iterator vs generator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Async iterator vs generator"
+            }
+          },
+          {
+            "id": "e71715204234552a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Python Core/Typing/Patterns/Runtime Narrowing Pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Runtime Narrowing Pattern"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f681413ba73e165f",
+    "type": "split",
+    "children": [
+      {
+        "id": "db4c89f009d4c596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca3696de0b4bef9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c458b819ea7ef47a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dca4b422fb565fb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0e1e59d1e86258d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f41a4c49843e12b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5c0d64393313e9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Meta/MOC/Async programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Async programming"
+            }
+          },
+          {
+            "id": "c4f7aee5c0d10804",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Meta/MOC/Async programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Async programming"
+            }
+          },
+          {
+            "id": "9497b1913adb45af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "104369970b923df5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3f1911e56d1b886a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Python Core/Async/Async iterator vs generator.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Async iterator vs generator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 688.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "opencode-obsidian:OpenCode": false
+    }
+  },
+  "active": "e71715204234552a",
+  "lastOpenFiles": [
+    "01_Python Core/Typing/Concepts/TypeGuard and TypeIs.md",
+    "01_Python Core/Typing/Patterns/Discriminated Union Pattern.md",
+    "01_Python Core/Typing/Patterns/Mypy Strict Mode Config.md",
+    "01_Python Core/Typing/Patterns/Callable Typing Patterns.md",
+    "01_Python Core/Typing/Patterns/Runtime Narrowing Pattern.md",
+    "01_Python Core/Typing/Patterns/Builder Pattern with TypedDict.md",
+    "01_Python Core/Typing/Concepts/Final.md",
+    "01_Python Core/Typing/Patterns/Variance Patterns.md",
+    "01_Python Core/Typing/Patterns/Generic Repository Pattern.md",
+    "01_Python Core/Typing/Concepts/Required and NotRequired.md",
+    "01_Python Core/Typing/Concepts/Override.md",
+    "01_Python Core/Typing/Concepts/LiteralString.md",
+    "01_Python Core/Typing/Concepts/Unpack and TypeVarTuple.md",
+    "01_Python Core/Typing/Concepts/ParamSpec and Concatenate.md",
+    "01_Python Core/Typing/Concepts/Never and NoReturn.md",
+    "01_Python Core/Typing/Concepts/Self Type.md",
+    "01_Python Core/Typing/Concepts/Annotated.md",
+    "01_Python Core/Typing/Concepts/Type Aliases.md",
+    "01_Python Core/Typing/Concepts/Literal Types.md",
+    "01_Python Core/Typing/Concepts/TypedDict.md",
+    "01_Python Core/Typing/Concepts/Protocol.md",
+    "ParamSpec and Concatenate.md",
+    "01_Python Core/Typing/Concepts/TypeVar and Generics.md",
+    "00_Meta/MOC/Python modern typing.md",
+    "00_Meta/Templates/Pattern Template.md",
+    "01_Python Core/Typing/General info.md",
+    "01_Python Core/Typing/Patterns",
+    "01_Python Core/Typing/Concepts",
+    "01_Python Core/Typing",
+    "07_Projects/devpulse",
+    "07_Projects",
+    "05_General_dev/bash",
+    "05_General_dev/git",
+    "05_general-dev",
+    "01_Python Core/Async",
+    "Inbox"
+  ]
+}

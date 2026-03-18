@@ -229,8 +229,12 @@
       "opencode-obsidian:OpenCode": false
     }
   },
-  "active": "e71715204234552a",
+  "active": "2ca3696de0b4bef9",
   "lastOpenFiles": [
+    "05_General_dev/agile/Scrum Framework.md",
+    "05_General_dev/agile/Agile Values & Principles.md",
+    "05_General_dev/agile",
+    "00_Meta/MOC/Agile.md",
     "01_Python Core/Typing/Patterns/Runtime Narrowing Pattern.md",
     "01_Python Core/Typing/Concepts/TypeGuard and TypeIs.md",
     "01_Python Core/Typing/Patterns/Discriminated Union Pattern.md",
@@ -254,9 +258,6 @@
     "01_Python Core/Typing/Concepts/Protocol.md",
     "ParamSpec and Concatenate.md",
     "01_Python Core/Typing/Concepts/TypeVar and Generics.md",
-    "00_Meta/MOC/Python modern typing.md",
-    "00_Meta/Templates/Pattern Template.md",
-    "01_Python Core/Typing/General info.md",
     "01_Python Core/Typing/Patterns",
     "01_Python Core/Typing/Concepts",
     "01_Python Core/Typing",
@@ -265,7 +266,6 @@
     "05_General_dev/bash",
     "05_General_dev/git",
     "05_general-dev",
-    "01_Python Core/Async",
-    "Inbox"
+    "01_Python Core/Async"
   ]
 }

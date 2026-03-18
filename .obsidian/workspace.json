@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Python Core/Async/Coroutines.md",
+                "file": "05_General_dev/agile/Scrum Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coroutines"
+              "title": "Scrum Framework"
             }
           }
         ],
@@ -229,10 +229,11 @@
       "opencode-obsidian:OpenCode": false
     }
   },
-  "active": "2ca3696de0b4bef9",
+  "active": "e71715204234552a",
   "lastOpenFiles": [
-    "05_General_dev/agile/Estimation & Story Points.md",
     "05_General_dev/agile/Definition of Done.md",
+    "01_Python Core/Async/Coroutines.md",
+    "05_General_dev/agile/Estimation & Story Points.md",
     "05_General_dev/agile/Scrum Ceremonies.md",
     "05_General_dev/agile/User Stories & Backlog.md",
     "05_General_dev/agile/Kanban.md",
@@ -257,7 +258,6 @@
     "01_Python Core/Typing/Concepts/Never and NoReturn.md",
     "01_Python Core/Typing/Concepts/Self Type.md",
     "01_Python Core/Typing/Concepts/Annotated.md",
-    "01_Python Core/Typing/Concepts/Type Aliases.md",
     "01_Python Core/Typing/Patterns",
     "01_Python Core/Typing/Concepts",
     "01_Python Core/Typing",

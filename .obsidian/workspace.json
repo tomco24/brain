@@ -231,6 +231,7 @@
   },
   "active": "2ca3696de0b4bef9",
   "lastOpenFiles": [
+    "05_General_dev/agile/Estimation & Story Points.md",
     "05_General_dev/agile/Definition of Done.md",
     "05_General_dev/agile/Scrum Ceremonies.md",
     "05_General_dev/agile/User Stories & Backlog.md",
@@ -257,7 +258,6 @@
     "01_Python Core/Typing/Concepts/Self Type.md",
     "01_Python Core/Typing/Concepts/Annotated.md",
     "01_Python Core/Typing/Concepts/Type Aliases.md",
-    "01_Python Core/Typing/Concepts/Literal Types.md",
     "01_Python Core/Typing/Patterns",
     "01_Python Core/Typing/Concepts",
     "01_Python Core/Typing",

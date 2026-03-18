@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Python Core/Typing/Patterns/Runtime Narrowing Pattern.md",
+                "file": "01_Python Core/Async/Coroutines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Runtime Narrowing Pattern"
+              "title": "Coroutines"
             }
           }
         ],
@@ -231,11 +231,11 @@
   },
   "active": "e71715204234552a",
   "lastOpenFiles": [
+    "01_Python Core/Typing/Patterns/Runtime Narrowing Pattern.md",
     "01_Python Core/Typing/Concepts/TypeGuard and TypeIs.md",
     "01_Python Core/Typing/Patterns/Discriminated Union Pattern.md",
     "01_Python Core/Typing/Patterns/Mypy Strict Mode Config.md",
     "01_Python Core/Typing/Patterns/Callable Typing Patterns.md",
-    "01_Python Core/Typing/Patterns/Runtime Narrowing Pattern.md",
     "01_Python Core/Typing/Patterns/Builder Pattern with TypedDict.md",
     "01_Python Core/Typing/Concepts/Final.md",
     "01_Python Core/Typing/Patterns/Variance Patterns.md",

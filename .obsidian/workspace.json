@@ -67,12 +67,14 @@
             "id": "e0f6b9051eb1bfb9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "05_General_dev/ddd/ddd_guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "ddd_guide"
             }
           }
         ],
@@ -225,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 688.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +238,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "opencode-obsidian:OpenCode": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e0f6b9051eb1bfb9",
   "lastOpenFiles": [
+    "desktop.ini",
     "00_Meta/MOC/GIT.md",
     "05_General_dev/agile/Scrum Framework.md",
     "05_General_dev/agile/Definition of Done.md",
@@ -266,7 +273,6 @@
     "01_Python Core/Typing/Concepts/Unpack and TypeVarTuple.md",
     "01_Python Core/Typing/Concepts/ParamSpec and Concatenate.md",
     "01_Python Core/Typing/Concepts/Never and NoReturn.md",
-    "01_Python Core/Typing/Concepts/Self Type.md",
     "01_Python Core/Typing/Patterns",
     "01_Python Core/Typing/Concepts",
     "01_Python Core/Typing",

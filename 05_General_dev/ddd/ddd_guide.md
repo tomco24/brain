@@ -36,15 +36,15 @@ A document that a non-technical stakeholder can validate.
 
 A collaborative workshop (domain experts + devs + QA). Use sticky notes on a timeline:
 
-| Color | Represents | Example |
-|---|---|---|
-| Orange | Domain Event | `InvoiceSent`, `OrderPlaced` |
-| Blue | Command | `SendInvoice`, `PlaceOrder` |
-| Yellow | Actor | `Customer`, `Billing Clerk` |
-| Purple | Policy | "When payment received, trigger shipment" |
-| Pink | External System | Payment gateway, email provider |
-| Yellow (large) | Aggregate | `Order`, `Invoice` |
-| Red | Hotspot / question | Unresolved ambiguity |
+| Color          | Represents         | Example                                   |
+| -------------- | ------------------ | ----------------------------------------- |
+| Orange         | Domain Event       | `InvoiceSent`, `OrderPlaced`              |
+| Blue           | Command            | `SendInvoice`, `PlaceOrder`               |
+| Yellow         | Actor              | `Customer`, `Billing Clerk`               |
+| Purple         | Policy             | "When payment received, trigger shipment" |
+| Pink           | External System    | Payment gateway, email provider           |
+| Yellow (large) | Aggregate          | `Order`, `Invoice`                        |
+| Red            | Hotspot / question | Unresolved ambiguity                      |
 
 ### Process
 
@@ -96,15 +96,15 @@ Signs you need a new context:
 
 Document how contexts relate:
 
-| Relationship | Meaning |
-|---|---|
-| **Upstream / Downstream** | One context feeds another |
-| **Shared Kernel** | Two contexts share a small common model (use sparingly) |
-| **Customer / Supplier** | Downstream dictates requirements to upstream |
-| **Conformist** | Downstream conforms to upstream's model with no negotiation |
-| **Anti-Corruption Layer (ACL)** | Downstream translates upstream's model to protect its own |
-| **Open Host Service** | Upstream publishes a stable protocol for many consumers |
-| **Published Language** | Shared interchange format (e.g. events on a message bus) |
+| Relationship                    | Meaning                                                     |
+| ------------------------------- | ----------------------------------------------------------- |
+| **Upstream / Downstream**       | One context feeds another                                   |
+| **Shared Kernel**               | Two contexts share a small common model (use sparingly)     |
+| **Customer / Supplier**         | Downstream dictates requirements to upstream                |
+| **Conformist**                  | Downstream conforms to upstream's model with no negotiation |
+| **Anti-Corruption Layer (ACL)** | Downstream translates upstream's model to protect its own   |
+| **Open Host Service**           | Upstream publishes a stable protocol for many consumers     |
+| **Published Language**          | Shared interchange format (e.g. events on a message bus)    |
 
 ### Output
 
